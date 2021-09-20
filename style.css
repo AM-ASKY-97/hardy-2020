@@ -1,0 +1,99 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #6a46bc;
+}
+
+.bg
+{
+    border: 1px solid white;
+}
+
+.pt
+{
+    padding-top: -20px;
+}
+
+.p10
+{
+    padding: 10px;
+    margin: auto;
+}
+
+.pa10
+{
+    padding-top: 10px;
+}
+
+.fla
+{
+    float: right;
+}
+
+.img
+{
+    padding-left: 50px;
+}
+.btn
+{
+    width: 100%;
+    text-align: left;
+    color: white;
+}
+
+.btn:hover
+{
+    background-color: gray;
+}
+
+.btn span
+{
+    margin-left: 15px;
+}
+
+.btn .fas
+{
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 25%;
+    padding-top: 7px;
+    padding-left: 6px;
+    color: #474747;
+    background-color:#151515;
+}
+
+.btn .fad
+{
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 25%;
+    padding-top: 7px;
+    padding-left: 6px;
+    color: #474747;
+    background-color:#151515;
+}
+
+.btn .fa-user-graduate
+{
+    padding-left: 9px;
+}
+
+.hei
+{
+    height: 530px;
+}
+
+.pp12
+{
+    margin-top: 10px;
+}
+
+.py-2 #gen
+{
+    padding-right: 10px;
+}
