@@ -150,6 +150,7 @@ include 'ajax.php';
                 icon: "success",
               });
               window.location.href="view_student.php";
+              window.location.href="index.php";
               }
             });
           }
