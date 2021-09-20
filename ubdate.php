@@ -15,6 +15,7 @@
             ?>
             <script>
                 alert("success full ubdate");
+                window.location.href="view_student.php";
             </script>
 
             <?php
@@ -129,7 +130,7 @@
 
   <div class="row ">
   <div class="col-lg-6 p10">
-   <a href="view_student.php"><button type="submit"  class="btn btn-success text-center" name="edit" onclick="loadfiles('View_Student','loadArea')"><i class="fa fa-pencil" aria-hidden="true"></i><span>Ubdate</span></button></a> 
+   <button type="submit"  class="btn btn-success text-center" name="edit"><i class="fa fa-pencil" aria-hidden="true"></i><span>Ubdate</span></button>
   
   </div>
 

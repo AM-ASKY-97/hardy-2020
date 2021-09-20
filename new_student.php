@@ -149,7 +149,9 @@ include 'ajax.php';
                 text: "You clicked the button!",
                 icon: "success",
               });
+              window.location.href="view_student.php";
               }
+              window.location.href="index.php";
             });
           }
 
