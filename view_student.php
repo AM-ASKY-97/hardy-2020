@@ -73,7 +73,7 @@ include 'ajax.php';
                 </td>
 
                 <td>
-                    <button class="btn btn-danger text-center">Delete</button>
+                <a href="delete.php?id=<?php echo $row["ID"]; ?>"><button class="btn btn-danger text-center">Delete</button></a>
                 </td>
                 </tr> 
                 <?php

@@ -146,11 +146,11 @@ include 'ajax.php';
               success:function(){
                 swal({
                 title: "Good job!",
-                text: "You clicked the button!",
+                text: "Your data has been recorded",
                 icon: "success",
               });
-              window.location.href="view_student.php";
-              window.location.href="index.php";
+              window.location.href="view_student.php?insert";
+             
               }
             });
           }

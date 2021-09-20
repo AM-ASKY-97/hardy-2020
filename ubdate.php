@@ -14,8 +14,8 @@
         {
             ?>
             <script>
-                alert("success full ubdate");
-                window.location.href="view_student.php";
+                alert ("Your data has been updated")
+                window.location.href="view_student.php?update";
             </script>
 
             <?php
@@ -154,6 +154,6 @@
 
 
 
-
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </body>
 </html>
