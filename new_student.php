@@ -34,7 +34,7 @@ include 'ajax.php';
 
   <div class="form-group">
     <label for="exampleFormControlInput1">Registration Number <span id="re">*</span></label>
-    <input type="email" class="form-control" name="id" id="id" placeholder="registraion number">
+    <input type="email" class="form-control" name="id" id="id" placeholder="registraion Book number">
   </div>
 
   <div class="form-group">
