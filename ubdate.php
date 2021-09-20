@@ -129,7 +129,7 @@
 
   <div class="row ">
   <div class="col-lg-6 p10">
-   <button type="submit"  class="btn btn-success text-center" name="edit" onclick="loadfiles('View_Student','loadArea')"><i class="fa fa-pencil" aria-hidden="true"></i><span>Ubdate</span></button> 
+   <a href="view_student.php"><button type="submit"  class="btn btn-success text-center" name="edit" onclick="loadfiles('View_Student','loadArea')"><i class="fa fa-pencil" aria-hidden="true"></i><span>Ubdate</span></button></a> 
   
   </div>
 
