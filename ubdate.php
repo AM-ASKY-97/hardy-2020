@@ -45,7 +45,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-
+    <script src="https://kit.fontawesome.com/2759fd8f76.js" crossorigin="anonymous"></script>
     <style>
     #re{color:red}
   </style>
@@ -129,7 +129,7 @@
 
   <div class="row ">
   <div class="col-lg-6 p10">
-   <button type="submit"  class="btn btn-success text-center" name="edit" onclick="loadfiles('View_Student','loadArea')"><i class="fa fa-ban" aria-hidden="true"></i><span>Ubdate</span></button> 
+   <button type="submit"  class="btn btn-success text-center" name="edit" onclick="loadfiles('View_Student','loadArea')"><i class="fa fa-pencil" aria-hidden="true"></i><span>Ubdate</span></button> 
   
   </div>
 

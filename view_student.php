@@ -68,7 +68,7 @@ include 'ajax.php';
                 <td> <?php echo $row['Dob']; ?> </td>
                 <td> <?php echo $row['Phone_number']; ?> </td>
                 <td> <?php echo $row['email']; ?> </td>
-                <td>
+                <td> 
                     <a href="ubdate.php?id=<?php echo $row["ID"]; ?>"><button class="btn btn-success text-center">Edit</button></a>
                 </td>
 
